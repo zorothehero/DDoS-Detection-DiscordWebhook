@@ -13,6 +13,9 @@ If you have these files downloaded then you can use an FTP client to transfer th
 You can also clone this files by running the following commands
 
 sudo apt-get update
+
 sudo apt-get upgrade
+
 sudo apt-get instsll git
-git cline 
+
+git clone https://github.com/KimYoJong/DDoS-Detection-DiscordWebhook 

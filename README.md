@@ -18,4 +18,9 @@ sudo apt-get upgrade
 
 sudo apt-get instsll git
 
-git clone https://github.com/KimYoJong/DDoS-Detection-DiscordWebhook 
+git clone https://github.com/KimYoJong/DDoS-Detection-DiscordWebhook
+
+bash ddoslog.sh
+
+## Help
+Contact me Twitter @FBI_arelosers or Discord Doge#3743

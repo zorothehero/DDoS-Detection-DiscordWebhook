@@ -23,4 +23,4 @@ git clone https://github.com/KimYoJong/DDoS-Detection-DiscordWebhook
 bash ddoslog.sh
 
 ## Help
-Contact me Twitter @FBI_arelosers or Discord Parrot#1337
+Contact me Twitter @FBI_arelosers or Discord DOGE#1337

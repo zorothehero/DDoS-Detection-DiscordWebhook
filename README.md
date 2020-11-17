@@ -16,7 +16,7 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-sudo apt-get instsll git
+sudo apt-get install git
 
 git clone https://github.com/KimYoJong/DDoS-Detection-DiscordWebhook
 
